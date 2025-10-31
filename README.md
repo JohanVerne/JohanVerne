@@ -10,14 +10,6 @@
 - 🎸 Massive music buff
 - 🐱 I made my first full game in Scratch at 13 yo
 
-<p align="center">
-  <img src="https://github-readme-stats-ten-black-46.vercel.app/api/top-langs/?username=JohanVerne&hide=mathematica,hlsl,cmake,c%2B%2B,c%23,objective-c,jupyter%20notebook,html&layout=compact&title_color=f48c06&text_color=faa307&bg_color=03071e&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats-ten-black-46.vercel.app/api/wakatime?username=JohanVerne&title_color=f48c06&text_color=faa307&bg_color=03071e" />
-</p>
-
 ## 🛠️ Technologies and tools
 
 <p align="center">
@@ -34,6 +26,13 @@
   <img src="https://img.shields.io/badge/C%2B%2B-%252300599C.svg?style=flat&logo=c%2B%2B&logoColor=white&labelColor=03071e&color=e85d04" alt="Static Badge" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=03071e&color=e85d04" alt="Static Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=03071e&color=e85d04" alt="Static Badge" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-ten-black-46.vercel.app/api/top-langs/?username=JohanVerne&hide=mathematica,hlsl,cmake,c%2B%2B,c%23,objective-c,jupyter%20notebook,html&layout=compact&title_color=f48c06&text_color=faa307&bg_color=000000&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats-ten-black-46.vercel.app/api/wakatime?username=JohanVerne&title_color=f48c06&text_color=faa307&bg_color=000000" />
 </p>
 
 ##
