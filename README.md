@@ -7,8 +7,8 @@
 - 📙 Enjoys leaning new stuff everyday
 - 💻 Passionate about computers and programming
 - 🐧 Linux and Open Source enthusiast
-- 🎸 Music
-- 🐱 <strong>Fun Fact</strong> : I made my first full game in Scratch at 13 yo
+- 🎸 Massive music buff
+- 🐱 I made my first full game in Scratch at 13 yo
 
 <p align="center">
   <img src="https://github-readme-stats-ten-black-46.vercel.app/api/top-langs/?username=JohanVerne&hide=mathematica,hlsl, cmake, c%2B%2B, c%23, objective-c, jupyter%20notebook, html&layout=compact&title_color=f48c06&text_color=faa307&langs_count=6" alt="Top Languages" />
@@ -34,6 +34,10 @@
 ![Static Badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=03071e&color=e85d04)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=03071e&color=e85d04)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0bcoopjhoxlrrklyhjvredc7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0bcoopjhoxlrrklyhjvredc7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f48c06&bar_color_cover=false", alt="Now Playing">
+  </a>
+</p>
 
 ---
