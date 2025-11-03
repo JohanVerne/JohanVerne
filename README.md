@@ -35,9 +35,11 @@
   <img src="https://github-readme-stats-ten-black-46.vercel.app/api/top-langs/?username=JohanVerne&hide=mathematica,hlsl,cmake,c%2B%2B,c%23,objective-c,jupyter%20notebook,html&layout=compact&title_color=f48c06&text_color=faa307&bg_color=0d1117&langs_count=6" alt="Top Languages" />
 </p>
 
+<!--
 <p align="center">
     <img src="https://github-readme-stats-ten-black-46.vercel.app/api/wakatime?username=JohanVerne&title_color=f48c06&text_color=faa307&bg_color=0d1117" />
-</p>
+</p> 
+-->
 
 ## 🎵 Now playing
 
