@@ -4,7 +4,7 @@
 ## 🔶 About Me
 
 - 🇫🇷 French software engineering student
-- 📙 Enjoys leraning new stuff everyday
+- 📙 Enjoys learning new stuff everyday
 - 💻 Passionate about computers and programming
 - 🐧 Linux and Open Source enthusiast
 - 🎸 Massive music buff
