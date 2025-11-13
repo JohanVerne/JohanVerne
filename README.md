@@ -7,8 +7,8 @@
 - 📙 Enjoys learning new stuff everyday
 - 💻 Passionate about computers and programming
 - 🐧 Linux and Open Source enthusiast
-- 🎸 Massive music buff
-<!--- 🐱 I made my first full game in Scratch at 13 yo -->
+- 🎸 Music buff
+<!-- - 🐱 I made my first full game in Scratch at 13 yo -->
 
 ## 🛠️ Technologies and tools
 
@@ -32,20 +32,27 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-black-46.vercel.app/api/top-langs/?username=JohanVerne&hide=mathematica,hlsl,cmake,c%2B%2B,c%23,objective-c,jupyter%20notebook,html&layout=compact&title_color=f48c06&text_color=faa307&bg_color=0d1117&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-ten-black-46.vercel.app/api/top-langs/?username=JohanVerne&hide=mathematica,hlsl,cmake,c%2B%2B,c%23,objective-c,jupyter%20notebook,html&layout=donut&title_color=f48c06&text_color=faa307&bg_color=0d1117&langs_count=6" alt="Top Languages" />
 </p>
 
 <!--
 <p align="center">
+<<<<<<< HEAD
     <img src="https://github-readme-stats-ten-black-46.vercel.app/api/wakatime?username=JohanVerne&title_color=f48c06&text_color=faa307&bg_color=0d1117" />
-</p> 
+</p>
 -->
+
+=======
+<img src="https://github-readme-stats-ten-black-46.vercel.app/api/wakatime?username=JohanVerne&title_color=f48c06&text_color=ffba08&bg_color=0d1117&border_color=ffffff&layout=compact" />
+
+</p>
+>>>>>>> 4ed5a4f (Updated README.md)
 
 ## 🎵 Now playing
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0bcoopjhoxlrrklyhjvredc7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f48c06&bar_color_cover=false", alt="Now Playing">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0bcoopjhoxlrrklyhjvredc7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f48c06&bar_color_cover=false&show_offline=true", alt="Now Playing">
   </a>
 </p>
 
