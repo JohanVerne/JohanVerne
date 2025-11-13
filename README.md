@@ -8,7 +8,7 @@
 - 💻 Passionate about computers and programming
 - 🐧 Linux and Open Source enthusiast
 - 🎸 Massive music buff
-- 🐱 I made my first full game in Scratch at 13 yo
+<!--- 🐱 I made my first full game in Scratch at 13 yo -->
 
 ## 🛠️ Technologies and tools
 
