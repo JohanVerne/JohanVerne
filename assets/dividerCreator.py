@@ -9,7 +9,7 @@ def create_simple_wave():
     num_frames = 50
 
     # Your orange colors
-    colors = {"dark": (232, 93, 4), "mid": (250, 163, 7), "bright": (13, 17, 23)}
+    colors = {"dark": (13, 17, 23), "mid": (123, 55, 14), "bright": (232, 93, 4)}
 
     for frame in range(num_frames):
         img = Image.new("RGB", (width, height), color=(20, 20, 20))
