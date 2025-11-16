@@ -50,7 +50,24 @@
 
 <p align="center">
   <a href="https://github.com/JohanVerne/SpotifyREADMEStats">
-    <img src= "https://spotify-stats-rose.vercel.app/stats?type=artists&range=short_term", alt="Top Artists" />
+    <img src="https://spotify-stats-rose.vercel.app/stats?type=artists&range=short_term", alt="Top Artists Recent" />
+  </a>
+
+  <a href=" https://github.com/JohanVerne/SpotifyREADMEStats">
+    <img src="https://spotify-stats-rose.vercel.app/stats?type=artists&range=long_term"; alt="Top Artists All-Time">
+  </a>
+
+  <a href=" https://github.com/JohanVerne/SpotifyREADMEStats">
+    <img src="https://spotify-stats-rose.vercel.app/stats?type=top_songs&range=short_term"; alt="Top Songs Recent">
+  </a>
+
+  <a href=" https://github.com/JohanVerne/SpotifyREADMEStats">
+    <img src="https://spotify-stats-rose.vercel.app/stats?type=top_songs&range=long_term"; alt="Top Songs All-Time">
+  </a>
+
+  <a href=" https://github.com/JohanVerne/SpotifyREADMEStats">
+    <img src="https://spotify-stats-rose.vercel.app/stats?type=last_albums"; alt="Last Played Albums">
   </a>
 </p>
+
 ---
