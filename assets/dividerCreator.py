@@ -22,21 +22,26 @@ def create_simple_wave():
             # Create repeating gradient pattern
             position = ((x + offset) % width) / width
 
-            # Three-color gradient cycle
-            if position < 0.33:
-                t = position / 0.33
+            # Adjusted thresholds to make the dark color larger
+            first_cut = 0.5  # dark -> mid spans 50% of cycle
+            second_cut = 0.6  # mid -> bright spans 10% of cycle
+            # bright -> dark spans remaining 40%
+
+            # Three-color gradient cycle with updated cuts
+            if position < first_cut:
+                t = position / first_cut
                 color = tuple(
                     int(colors["dark"][i] + (colors["mid"][i] - colors["dark"][i]) * t)
                     for i in range(3)
                 )
-            elif position < 0.66:
-                t = (position - 0.33) / 0.33
+            elif position < second_cut:
+                t = (position - first_cut) / (second_cut - first_cut)
                 color = tuple(
                     int(colors["mid"][i] + (colors["bright"][i] - colors["mid"][i]) * t)
                     for i in range(3)
                 )
             else:
-                t = (position - 0.66) / 0.34
+                t = (position - second_cut) / (1 - second_cut)
                 color = tuple(
                     int(
                         colors["bright"][i]
