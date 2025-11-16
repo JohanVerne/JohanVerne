@@ -40,7 +40,7 @@
 
 </p>
 
-## 🎵 About
+## 🎵 Spotify Stats
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -50,7 +50,7 @@
 
 <!-- Orange Divider (SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+  <img src="assets/orange_wave_divider.gif" width="100%" height="3px">
 </p>
 
 <!-- Recently Saved Albums -->
@@ -62,7 +62,7 @@
 
 <!-- Orange Divider (SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+  <img src="assets/orange_wave_divider.gif" width="100%" height="3px">
 </p>
 
 <!-- Recent Listening (Short Term) -->
@@ -77,7 +77,7 @@
 
 <!-- Orange Divider (SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+  <img src="assets/orange_wave_divider.gif" width="100%" height="3px">
 </p>
 
 <!-- All-Time Favorites (Long Term) -->
@@ -90,4 +90,6 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="assets/orange_wave_divider.gif" width="100%" height="3px">
+</p>
