@@ -40,33 +40,53 @@
 
 </p>
 
-## 🎵 Now playing
+## 🎵 About
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0bcoopjhoxlrrklyhjvredc7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f48c06&bar_color_cover=false&show_offline=true", alt="Now Playing">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0bcoopjhoxlrrklyhjvredc7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f48c06&bar_color_cover=false&show_offline=true" alt="Now Playing">
   </a>
 </p>
 
+<!-- Orange Divider (SVG) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+</p>
+
+<!-- Recently Saved Albums -->
 <p align="center">
   <a href="https://github.com/JohanVerne/SpotifyREADMEStats">
-    <img src="https://spotify-stats-rose.vercel.app/stats?type=artists&range=short_term", alt="Top Artists Recent" />
+    <img src="https://spotify-stats-rose.vercel.app/stats?type=last_albums" alt="Recently Saved Albums" width="70%" />
   </a>
+</p>
 
-  <a href=" https://github.com/JohanVerne/SpotifyREADMEStats">
-    <img src="https://spotify-stats-rose.vercel.app/stats?type=artists&range=long_term"; alt="Top Artists All-Time">
+<!-- Orange Divider (SVG) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+</p>
+
+<!-- Recent Listening (Short Term) -->
+<p align="center">
+  <a href="https://github.com/JohanVerne/SpotifyREADMEStats">
+    <img src="https://spotify-stats-rose.vercel.app/stats?type=artists&range=short_term" alt="Top Artists Recent" width="48%" />
   </a>
-
-  <a href=" https://github.com/JohanVerne/SpotifyREADMEStats">
-    <img src="https://spotify-stats-rose.vercel.app/stats?type=top_songs&range=short_term"; alt="Top Songs Recent">
+  <a href="https://github.com/JohanVerne/SpotifyREADMEStats">
+    <img src="https://spotify-stats-rose.vercel.app/stats?type=top_songs&range=short_term" alt="Top Songs Recent" width="48%" />
   </a>
+</p>
 
-  <a href=" https://github.com/JohanVerne/SpotifyREADMEStats">
-    <img src="https://spotify-stats-rose.vercel.app/stats?type=top_songs&range=long_term"; alt="Top Songs All-Time">
+<!-- Orange Divider (SVG) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+</p>
+
+<!-- All-Time Favorites (Long Term) -->
+<p align="center">
+  <a href="https://github.com/JohanVerne/SpotifyREADMEStats">
+    <img src="https://spotify-stats-rose.vercel.app/stats?type=artists&range=long_term" alt="Top Artists All-Time" width="48%" />
   </a>
-
-  <a href=" https://github.com/JohanVerne/SpotifyREADMEStats">
-    <img src="https://spotify-stats-rose.vercel.app/stats?type=last_albums"; alt="Last Played Albums">
+  <a href="https://github.com/JohanVerne/SpotifyREADMEStats">
+    <img src="https://spotify-stats-rose.vercel.app/stats?type=top_songs&range=long_term" alt="Top Songs All-Time" width="48%" />
   </a>
 </p>
 
