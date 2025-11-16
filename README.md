@@ -48,4 +48,9 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/JohanVerne/SpotifyREADMEStats">
+    <img src= "https://spotify-stats-rose.vercel.app/stats?type=artists&range=short_term", alt="Top Artists" />
+  </a>
+</p>
 ---
