@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-ten-black-46.vercel.app/api/wakatime?username=JohanVerne&title_color=f48c06&text_color=ffba08&bg_color=0d1117&border_color=ffffff&layout=compact" />
+<img src="https://streak-stats.demolab.com?user=johanverne&theme=highcontrast" alt="GitHub Streak" />
 
 </p>
 
