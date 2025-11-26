@@ -35,14 +35,16 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohanVerne&theme=dark"/></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-delta-two-80.vercel.app/?user=JohanVerne&theme=dark" />
+  </a>
 </p>
 
 ## 🎵 Spotify Stats
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0bcoopjhoxlrrklyhjvredc7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f48c06&bar_color_cover=false&show_offline=true" alt="Now Playing">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0bcoopjhoxlrrklyhjvredc7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f48c06&bar_color_cover=false&show_offline=true" alt="Now Playing"/>
   </a>
 </p>
 
