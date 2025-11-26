@@ -8,7 +8,6 @@
 - 💻 Passionate about computers and programming
 - 🐧 Linux and Open Source enthusiast
 - 🎸 Music buff
-<!-- - 🐱 I made my first full game in Scratch at 13 yo -->
 
 ## 🛠️ Technologies and tools
 
@@ -36,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=johanverne&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=johanverne&theme=dark" />
 </p>
 
 ## 🎵 Spotify Stats
