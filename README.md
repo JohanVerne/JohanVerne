@@ -1,5 +1,5 @@
 <h1 align='center'> Hi 👋, I'm Johan </h1>
-<h2 align='center'> I'm a <sub><sup>(future)</sub></sup> software engineer </h2>
+<h2 align='center'> I'm a software engineer </h2>
 
 ## 🔶 About Me
 
