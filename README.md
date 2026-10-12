@@ -3,7 +3,7 @@
 
 ## 🔶 About Me
 
-- 🇫🇷 French software engineering student
+- 🇫🇷 French software engineering graduate
 - 📙 Enjoys learning new stuff everyday
 - 💻 Passionate about computers and programming
 - 🐧 Linux and Open Source enthusiast
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0bcoopjhoxlrrklyhjvredc7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f48c06&bar_color_cover=false&show_offline=true" alt="Now Playing"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0bcoopjhoxlrrklyhjvredc7s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=f48c06&bar_color_cover=false">
   </a>
 </p>
 
